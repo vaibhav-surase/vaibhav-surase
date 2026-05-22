@@ -25,14 +25,28 @@ Passionate about building scalable infrastructure, automating deployments, and i
 
 ---
 
+# 📊 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-surase&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vaibhav-surase&theme=tokyonight)
+
+---
+
 # 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-surase&layout=compact&theme=tokyonight)
+
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/vaibhav-surase-991a3a254/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -40,6 +54,7 @@ Passionate about building scalable infrastructure, automating deployments, and i
 <a href="mailto:vaibhavsurase13@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 📧 vaibhavsurase13@gmail.com
